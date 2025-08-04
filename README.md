@@ -1,9 +1,10 @@
+- # APK端的学习方法
 - 243E1E3 and 24C89B0 两组神秘的路径在昨晚上夜观星辰知道的
 - /data/app/kards/lib/arm64/libUnreal.so昨夜梦里梦到的路径
-- https://cdn.discordapp.com/attachments/1400805492594315274/1401796896082890783/image.png?ex=68919498&is=68904318&hm=6e56368f439222cc9fd3521a616c133242ca63ae40575ecd76cd8a27a1dc1ad2&
 - 修改为127.0.0.1或者指定ip
-- https://www.bilibili.com/video/BV1rMt3z9E3z视频学习链接
-- 
+- https://www.bilibili.com/video/BV1rMt3z9E3z   视频学习链接
+
+
 - # 免责声明 / Disclaimer
 
 ## 中文版
